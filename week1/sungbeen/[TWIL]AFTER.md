@@ -11,8 +11,6 @@ HTTP 완벽 가이드 CH01 ~ 03
 
 ## 질문 내용
 
-### MIME type
-
 Q 1-1. MIME type을 별도로 명시하지 않으면 어떻게 되는가?
 
 A. MIME type이 없거나 클라이언트가 타입이 잘못 설정됐다고 판단한 경우, 브라우저는 MIME 스니핑을 시도하여 MIME type을 추측한다. 하지만 각 브라우저마다 동작 방식이 다르기에 이를 방지하려면 서버 측에서는 `Content-type` 중 `X-Content-Type-Options`를 설정할 수 있다.

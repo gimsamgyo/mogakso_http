@@ -12,6 +12,6 @@
 
 [내용 정리](https://velog.io/@dre12am14/2%EC%9E%A5-URL%EA%B3%BC-%EB%A6%AC%EC%86%8C%EC%8A%A4)
 
-## [CH3]
+## [CH3] HTTP 메시지
 
 [내용 정리](https://velog.io/@dre12am14/3%EC%9E%A5-HTTP-%EB%A9%94%EC%8B%9C%EC%A7%80)
